@@ -1,0 +1,16 @@
+﻿C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\Models\BankAccount.cs
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\Program.cs
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.GlobalUsings.g.cs
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\appsettings.Development.json
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\appsettings.json
+C:\Users\ASUS\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ASUS\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ASUS\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\ASUS\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\ASUS\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\ASUS\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\testcentric.engine.metadata.dll
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\Bank.WebApi.http
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi\Properties\launchSettings.json

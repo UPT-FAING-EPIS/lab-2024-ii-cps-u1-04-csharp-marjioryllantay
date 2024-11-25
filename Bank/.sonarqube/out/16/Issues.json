@@ -1,0 +1,119 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.11.0.0",
+        "fileVersion": "4.11.0-3.24365.8 (9e9c7c1d)",
+        "semanticVersion": "4.11.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS9035",
+          "level": "error",
+          "message": "El miembro requerido 'BankAccount.CustomerName' debe establecerse en el inicializador de objeto o constructor de atributos.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ASUS/Desktop/lab-2024-ii-cps-u1-04-csharp-JosueUPT/Bank/Bank.WebApi.Tests/BanckAccountTests.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 39,
+                  "endLine": 15,
+                  "endColumn": 50
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0104",
+          "level": "error",
+          "message": "'Assert' es una referencia ambigua entre 'NUnit.Framework.Assert' y 'Microsoft.VisualStudio.TestTools.UnitTesting.Assert'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ASUS/Desktop/lab-2024-ii-cps-u1-04-csharp-JosueUPT/Bank/Bank.WebApi.Tests/BanckAccountTests.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 13,
+                  "endLine": 20,
+                  "endColumn": 19
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS9035",
+          "level": "error",
+          "message": "El miembro requerido 'BankAccount.CustomerName' debe establecerse en el inicializador de objeto o constructor de atributos.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ASUS/Desktop/lab-2024-ii-cps-u1-04-csharp-JosueUPT/Bank/Bank.WebApi.Tests/BanckAccountTests.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 39,
+                  "endLine": 30,
+                  "endColumn": 50
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0104",
+          "level": "error",
+          "message": "'Assert' es una referencia ambigua entre 'NUnit.Framework.Assert' y 'Microsoft.VisualStudio.TestTools.UnitTesting.Assert'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ASUS/Desktop/lab-2024-ii-cps-u1-04-csharp-JosueUPT/Bank/Bank.WebApi.Tests/BanckAccountTests.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 19
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0104": {
+          "id": "CS0104",
+          "defaultLevel": "error",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0104)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS9035": {
+          "id": "CS9035",
+          "defaultLevel": "error",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS9035)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

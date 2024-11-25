@@ -1,0 +1,9 @@
+﻿C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi.Tests\BanckAccountTests.cs
+C:\Users\ASUS\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\ASUS\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\ASUS\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi.Tests\TestResults\5f937f0d-9f72-4889-b762-8600c93496a0\coverage.cobertura.xml
+C:\Users\ASUS\Desktop\lab-2024-ii-cps-u1-04-csharp-JosueUPT\Bank\Bank.WebApi.Tests\TestResults\f7e8bdba-4bd9-41eb-b909-aee2206ea6a3\coverage.opencover.xml
+C:\Users\ASUS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
